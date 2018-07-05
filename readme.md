@@ -179,7 +179,7 @@
 <br>
 *Extension：数据库driver的扩展插件接口
 <br>
-*
+*FailoverConnectionProxy:
 <br>
 <br>
 <br>
